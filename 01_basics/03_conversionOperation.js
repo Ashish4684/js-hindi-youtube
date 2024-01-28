@@ -1,4 +1,4 @@
-let score = "hitesh"
+/*let score = "hitesh"
 
 //console.log(typeof score);
 //console.log(typeof(score));
@@ -63,3 +63,43 @@ num1 = num2 = num3 = 2 + 2
 let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
+*/
+
+let me = "33"
+ 
+let Nme = Number(me)
+console.log(Nme);
+console.log(typeof Nme);
+let me2 = "12jj"
+let nme2 = Number(me2)
+console.log(nme2);
+console.log(typeof nme2);
+
+
+let me3 =null
+let nm3 = Number(me3)
+console.log(nm3);
+console.log(typeof nm3);
+
+let ne4 = false
+let nm4 = Number(ne4)
+console.log(nm4);
+console.log(typeof nm4);
+
+// CONVERTING TO BOOLEAN
+let no = 23
+let bol = Boolean(no)
+console.log(bol);
+
+let no1 = 0
+let bol1 = Boolean(no1)
+console.log(bol1);
+
+let no2 = ""
+let bol2 = Boolean(no2)
+console.log(bol2);
+
+let no3 = "as"
+let bol3 = Boolean(no3)
+console.log(bol3);
+
