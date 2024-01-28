@@ -65,7 +65,7 @@ let gameCounter = 100
 console.log(gameCounter);
 */
 
-let me = "33"
+/*let me = "33"
  
 let Nme = Number(me)
 console.log(Nme);
@@ -93,8 +93,7 @@ console.log(bol);
 
 let no1 = 0
 let bol1 = Boolean(no1)
-console.log(bol1);
-
+console.log(bol1)
 let no2 = ""
 let bol2 = Boolean(no2)
 console.log(bol2);
@@ -102,4 +101,39 @@ console.log(bol2);
 let no3 = "as"
 let bol3 = Boolean(no3)
 console.log(bol3);
+;*/
+
+
+// *******************OPERATIONS********************************
+// basics operation 
+ 
+let a = 10
+let b =5
+
+console.log(b +a);
+console.log(a-b);
+console.log(b*a);
+console.log(a/b);
+console.log("a TO THE POWER b a**b =  ");
+console.log(a**b);
+console.log(a%b);
+console.log("INCREMENT OPERATOR ++");
+let e = 3;
+let f = e++;
+console.log(" used in suffix");
+console.log(e);
+console.log(f);
+
+console.log(" used in prefix");
+ 
+let h =3
+let g = ++h
+console.log(h);
+console.log(g);
+
+
+
+
+
+
 
