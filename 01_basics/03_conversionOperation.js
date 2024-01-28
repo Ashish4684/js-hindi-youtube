@@ -65,7 +65,7 @@ let gameCounter = 100
 console.log(gameCounter);
 */
 
-/*let me = "33"
+let me = "33"
  
 let Nme = Number(me)
 console.log(Nme);
@@ -101,7 +101,7 @@ console.log(bol2);
 let no3 = "as"
 let bol3 = Boolean(no3)
 console.log(bol3);
-;*/
+
 
 
 // *******************OPERATIONS********************************
