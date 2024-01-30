@@ -46,3 +46,12 @@ const noss = 1000000
 console.log(noss.toLocaleString());
 
 console.log(noss.toLocaleString("en-In"));
+
+// **********************MATH****************************
+
+let nose = -33.222
+
+console.log(Math.abs(nose));
+console.log(Math.round(nose));
+
+console.log(Math.round(Math.ceil(Math.random()*10)));
