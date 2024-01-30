@@ -88,3 +88,22 @@ names(para)*/
 
 
 // *****************************NUMBER*****************************
+
+
+//************* */ ARRAY  OBJECT AND FUNCTION **************************** */
+
+ const arr = [1,2,2,3,3,3,4,4,4,4]
+ console.log(arr[2]);
+
+ let myOb = {
+    ashish : "ashish yadav"
+ }
+
+ console.log(myOb.ashish);
+
+ myOb.isis = function()
+{
+    console.log("ashish");
+} 
+
+console.log(myOb.isis());
