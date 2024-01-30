@@ -42,5 +42,13 @@ let repoCount = 40
 console.log(`my name is ${name} and i have ${repoCount} repo`);
 
 const gamename = "ashishyadav"
-const newb = New string("ashish");
-console.log(newb);
+// const newb = New string("ashish");
+// console.log(gamename.__prototype__);
+ let news = gamename.substring(0,6 )
+ console.log(news);
+
+let newss = gamename.slice(-8, 8)
+console.log(newss);
+let newsss = "ashish-kumar-yadav"
+console.log(newsss.split("-"));
+
