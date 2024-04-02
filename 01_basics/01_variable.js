@@ -5,6 +5,7 @@ accountCity = "jaipur"
 let accountState;
 
 // accountId = 2  // not allowed
+
 accountPasword = "12345"
 accountEmail ="ddfdg@jsiu.com"
 accountCity = "jashpur"
